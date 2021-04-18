@@ -15,7 +15,7 @@ status-website:
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Status Page :: The Rainbow Dev
+  name: Status Page - The Rainbow Dev
   introTitle: "**The Rainbow Dev** is a small and quirky team of web and mobile app developers."
   introMessage: We're keen to keep our systems up and running as much as possible; however, sometimes things happen, and you can find out about any gremlins here.
   navbar:
