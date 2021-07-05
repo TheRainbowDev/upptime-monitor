@@ -8,13 +8,15 @@ sites:
     url: https://therainbow.dev
   - name: Website Hosting
     url: https://rainbowdev.host
+  - name: Our-Cloud
+    url: https://our-cloud.therainbow.dev
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   cname: status.therainbow.dev
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://cdn.therainbow.dev/assets/rainbow-dev-logo.svg
   name: Status Page - The Rainbow Dev
   introTitle: "**The Rainbow Dev** is a small and quirky team of web and mobile app developers."
   introMessage: We're keen to keep our systems up and running as much as possible; however, sometimes things happen, and you can find out about any gremlins here.
