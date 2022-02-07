@@ -31,7 +31,7 @@
     "time": 1190,
     "timeDay": 940,
     "timeWeek": 748,
-    "timeMonth": 752,
+    "timeMonth": 757,
     "timeYear": 1190,
     "dailyMinutesDown": {}
   },
@@ -40,7 +40,7 @@
     "url": "https://our-cloud.therainbow.dev",
     "icon": "https://favicons.githubusercontent.com/our-cloud.therainbow.dev",
     "slug": "our-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
