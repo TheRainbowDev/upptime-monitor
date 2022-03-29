@@ -40,17 +40,17 @@
     "url": "https://our-cloud.therainbow.dev",
     "icon": "https://favicons.githubusercontent.com/our-cloud.therainbow.dev",
     "slug": "our-cloud",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3137,
-    "timeDay": 19720,
-    "timeWeek": 15929,
-    "timeMonth": 9670,
-    "timeYear": 3137,
+    "time": 3186,
+    "timeDay": 19730,
+    "timeWeek": 16063,
+    "timeMonth": 9841,
+    "timeYear": 3186,
     "dailyMinutesDown": {}
   }
 ]
