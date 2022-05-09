@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 456,
     "timeDay": 284,
-    "timeWeek": 485,
+    "timeWeek": 481,
     "timeMonth": 863,
     "timeYear": 455,
     "dailyMinutesDown": {}
@@ -22,7 +22,7 @@
     "url": "https://rainbowdev.host",
     "icon": "https://favicons.githubusercontent.com/rainbowdev.host",
     "slug": "website-hosting",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 1143,
     "timeDay": 911,
-    "timeWeek": 1403,
+    "timeWeek": 1466,
     "timeMonth": 1193,
     "timeYear": 1148,
     "dailyMinutesDown": {}
