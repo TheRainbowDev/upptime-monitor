@@ -22,7 +22,7 @@
     "url": "https://rainbowdev.host",
     "icon": "https://favicons.githubusercontent.com/rainbowdev.host",
     "slug": "website-hosting",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -49,7 +49,7 @@
     "time": 3459,
     "timeDay": 1187,
     "timeWeek": 1099,
-    "timeMonth": 1349,
+    "timeMonth": 1184,
     "timeYear": 3459,
     "dailyMinutesDown": {}
   }
